@@ -1,0 +1,250 @@
+.recipesdetails__heading{
+    display: flex;
+  
+   
+}
+
+.heading__p{
+    text-align: left;
+    width: 100%;
+    padding: 15px;
+    padding-bottom: 5%;
+}
+
+.heading__p p{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+.recipedetailsheading__wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80%;
+    padding: 20px;
+}
+
+
+.recipedetailsheading__wrapper2{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    padding: 50px;
+}
+
+.recipesdetails__content2{
+    background: #E7FAFE;
+    border-radius: 50%;
+    width: 80px;
+height: 80px;
+display: flex;
+flex-direction: column;
+text-align: center;
+
+}
+
+.recipesdetails__content2 h1{
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0.1em;
+    text-align: center;
+}
+
+.recipesdetails__content2 img{
+    margin: auto;
+    width: 24px;
+    height: 24px;
+}
+
+
+
+.recipedetailsheading__wrapper h1{
+    font-family: Inter;
+font-size: 44px;
+font-weight: 600;
+line-height: 77px;
+letter-spacing: -0.04em;
+text-align: left;
+padding-bottom: 3%;
+
+}
+
+.recipedetailsbottom__wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+/*-------RECIPE HEADING STYLING ENDS HERE-------*/
+
+
+
+/*-------RECIPE WRAPPER BEGINS HERE-------*/
+
+
+   
+
+.recipesdetails__content{
+    display: flex;
+    gap:1.5rem;
+}
+
+.recipesdetails__content p{
+    width: 130px;
+
+}
+
+.recipedetailss__wrapper{
+    display: flex;
+    width: 100%;
+    gap: 2rem;
+    padding: 20px;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.recipedetailss__wrapper__pics{
+    width: 840px;
+    height: 600px;
+}
+
+.recipedetailss__wrapper__pics  img{
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+
+.recipedetails__text{
+    width: 400px;
+    height: 550px;
+    background: #E7FAFE;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.recipedetails__text h1{
+    padding: 10px;
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: -0.04em;
+text-align: left;
+
+}
+
+.recipedetails__text h3{
+    padding-top: 60px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.recipedetails__text__content{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+    width: 100%;
+    padding: 10px;
+}
+
+.recipedetails__text__content h2{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: -0.04em;
+text-align: left;
+
+
+}
+
+.recipedetails__text__content p{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: -0.04em;
+text-align: right;
+
+    
+
+}
+
+
+@media only screen  and (max-width:400px) {
+
+    .recipesdetails__heading{
+        display: flex;
+        flex-direction: column;
+       
+    }
+
+    .recipedetailss__wrapper{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        gap: 0;
+    }
+    .recipedetailsheading__wrapper{
+        width: 100%;
+    }
+
+    .recipedetailsheading__wrapper2{
+        width: 200px;
+        padding: 0px;
+    }
+
+
+    .recipedetailsbottom__wrapper{
+        width: 100%;
+      flex-wrap: wrap;
+    }
+
+    .recipedetailsheading__wrapper h1{
+        font-size: 34px;
+        font-weight: 600;
+        line-height: 47px;
+    }
+    .recipedetailss__wrapper{
+        display: flex;
+        width: 100%;
+        gap: 0rem;
+        padding: 20px;
+        margin-top: 3%;
+        
+    }
+
+    .recipedetailss__wrapper__pics{
+        width: 100%;
+        height: 230px;
+    }
+    
+
+
+    .recipedetails__text{
+        width: 100%;
+        height: 450px;
+        margin: 0;
+      
+    }
+
+    .recipesdetails__content {
+        width: 100%;
+    
+    }
+    
+    
+}

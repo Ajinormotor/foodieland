@@ -1,0 +1,276 @@
+.ingredients{
+    overflow: hidden;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+
+
+.ingredients__wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 1rem;
+}
+.ingredients__text{
+    width: 840px;
+    height: 561px;
+}
+
+.ingredients__text  h1{
+    font-family: Inter;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.04em;
+text-align: left;
+padding-bottom: 3%;
+}
+
+
+.ingredients__text  h2{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: -0.04em;
+text-align: left;
+padding-bottom: 3%;
+
+}
+
+.ingredients__box{
+    width: 400px;
+    height: 479px;
+}
+
+.ingredients__item{
+    display: flex;
+    gap: 2rem;
+    padding: 20px;
+    border-bottom: 1px solid black;
+}
+
+.ingredients__text p{
+    font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: -0.02em;
+text-align: left;
+
+}
+
+
+.underline{
+    text-decoration: line-through;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+opacity: 20%;
+
+}
+
+.ingredients__box h1{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 39px;
+letter-spacing: -0.04em;
+text-align: left;
+padding-bottom: 5%;
+
+}
+
+
+
+.ingredientsbox__wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.ingredient__content{
+    display: flex;
+    gap: 1.5rem;
+}
+
+.ingredients__content__pics{
+    width: 180px;
+    height: 120px;
+    border-radius: 30px;
+}
+
+.ingredients__content__text  h1{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    padding-bottom: 2.5%;
+    
+}
+
+/*---------FIRST INGREDIENTS STYLING STOPS HERE-------*/
+
+
+/*---------SECOND INGREDIENTS STYLING STARTS HERE-------*/
+
+.ingredients__wrapper2{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    gap: 1rem;
+}
+
+.ingredients__text2{
+    width: 840px;
+    height: 293px;
+}
+
+.ingredients__box2{
+    width: 400px;
+    height: 434px;
+}
+
+.ingredients__content__pics2{
+ width: 400px;
+    height: 334px;
+    border-radius: none;
+}
+
+.ingredients__text2  h1{
+    font-family: Inter;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.04em;
+text-align: left;
+padding-bottom: 3%;
+}
+
+
+/*---------SECOND INGREDIENTS STYLING ENDS HERE-------*/
+
+
+
+/*---------DIRECTION STYLING STARTS HERE-------*/
+
+.direction__wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 840px;
+    border-radius: 20px;
+    padding-top: 3%;
+    padding: 20px;
+}
+
+.direction__heading{
+    border-bottom: 1px solid black;
+}
+
+.direction__heading h1{
+    font-family: Inter;
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.04em;
+text-align: left;
+padding-bottom: 2%;
+
+}
+
+.direction__menu{
+    width: 400px;
+    height: 29px;
+   
+}
+
+.direction__item{
+    display: flex;
+    gap: 1.5rem;
+    padding-bottom: 3%;
+}
+
+.direction__item img{
+    width: 24px;
+height: 24px;
+border: 2px;   
+}
+
+.direction__item p{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: -0.02em;
+text-align: left;
+
+}
+
+.direction__heading p{
+    padding-bottom: 5%;
+}
+
+
+
+
+@media only screen and (max-width:400px) {
+
+    .ingredients__wrapper, .ingredients__wrapper2{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .ingredients__text{
+        width: 100%;
+        height: 450px;
+        padding: 10px;
+    }
+
+    .ingredients__text2{
+        width: 100%;
+        height: 270px;
+        padding: 10px;
+    }
+    
+    .ingredients__box{
+        width: 100%;
+        padding: 10px;
+        
+    }
+
+    .ingredients__content__pics2{
+        width: 340px;
+        height: 100px;
+        padding: 10px;
+    }
+    
+    .ingredients__content__pics2 img{
+        object-fit: contain;
+        object-position: center;
+        padding: 10px;
+    }
+
+    .direction__wrapper{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        border-radius: 20px;
+        padding-top: 3%;
+        padding: 10px;
+    }
+    .direction__heading h1{
+        font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: -0.04em;
+    text-align: left;
+    padding-bottom: 3%;
+    
+    }
+}
