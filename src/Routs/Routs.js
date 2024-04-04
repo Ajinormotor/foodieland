@@ -20,6 +20,8 @@ const Routs = () => {
 <Route  path='/contact'   element={<Contat  />}     />
 <Route  path='/about'   element={<About  />}     />
 
+<Route path='*'  element={<Navigate to='/home'  />}    />
+
 
 
 </Routes>
