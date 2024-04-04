@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12226fb3.css",
+    "main.js": "/static/js/main.3efdda0b.js",
+    "static/media/remixicon.svg?t=1708865856766": "/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
+    "static/media/Mask Group.png": "/static/media/Mask Group.7176916f98f32208e8f0.png",
+    "static/media/remixicon.eot?t=1708865856766": "/static/media/remixicon.8542c1bb279bcd77063a.eot",
+    "static/media/remixicon.ttf?t=1708865856766": "/static/media/remixicon.4c942de19d980993f612.ttf",
+    "static/media/Rectangle 23.png": "/static/media/Rectangle 23.feb0b289e880b676d420.png",
+    "static/media/Group 880.png": "/static/media/Group 880.ba8ff496644e64fb4d9f.png",
+    "static/media/image 26 (1).png": "/static/media/image 26 (1).61933b1cface345514b5.png",
+    "static/media/remixicon.woff?t=1708865856766": "/static/media/remixicon.28ceff39ee3e17dc99db.woff",
+    "static/media/Ads.png": "/static/media/Ads.f5c175be4e6ecdadbbfc.png",
+    "static/media/Mask Group (3).png": "/static/media/Mask Group (3).7f7b18f174400f5611c5.png",
+    "static/media/Mask Group (2).png": "/static/media/Mask Group (2).b70e3c3b9387ac1505c5.png",
+    "static/media/Mask Group (4).png": "/static/media/Mask Group (4).3e9b4ae322674db44a88.png",
+    "static/media/image 26 (4).png": "/static/media/image 26 (4).16850f93429a261a10b0.png",
+    "static/media/Post (1).png": "/static/media/Post (1).83968af0e387a4b63c37.png",
+    "static/media/remixicon.woff2?t=1708865856766": "/static/media/remixicon.39f4def56d0e8712909a.woff2",
+    "static/media/Mask Group (13).png": "/static/media/Mask Group (13).b99cab381bb1fa911abf.png",
+    "static/media/Mask Group (1).png": "/static/media/Mask Group (1).b7c5bc0ccccaab2eec0a.png",
+    "static/media/Mask Group (5).png": "/static/media/Mask Group (5).5c810ea519afcaa73a21.png",
+    "static/media/Photo.png": "/static/media/Photo.c66260b929800f88c5fe.png",
+    "static/media/Layer 1 1.png": "/static/media/Layer 1 1.f6741899b57569c08f1e.png",
+    "static/media/Mask Group (11).png": "/static/media/Mask Group (11).0c3665716b99d129c95e.png",
+    "static/media/Mask Group (7).png": "/static/media/Mask Group (7).56dd001a1ccec2a7dee4.png",
+    "static/media/kisspng-salad-salad-fresh-food-healthylife-vegetables-vegetarian-5d42e3a7cb8543 1.png": "/static/media/kisspng-salad-salad-fresh-food-healthylife-vegetables-vegetarian-5d42e3a7cb8543 1.70890156198138459377.png",
+    "static/media/image 261.png": "/static/media/image 261.a90753c88b3a53bf35d9.png",
+    "static/media/Group 879.png": "/static/media/Group 879.18bcac2d8f21cd85e844.png",
+    "static/media/image 25.png": "/static/media/image 25.257ba2d51182d601b44f.png",
+    "static/media/image 21.png": "/static/media/image 21.23a90843133dba9e8bb9.png",
+    "static/media/image 23.png": "/static/media/image 23.79f673372431ecf9f79f.png",
+    "static/media/image 22.png": "/static/media/image 22.f2a7af6bd21800dffd83.png",
+    "static/media/image 24.png": "/static/media/image 24.b5ae1041aef7f6021875.png",
+    "index.html": "/index.html",
+    "main.12226fb3.css.map": "/static/css/main.12226fb3.css.map",
+    "main.3efdda0b.js.map": "/static/js/main.3efdda0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12226fb3.css",
+    "static/js/main.3efdda0b.js"
+  ]
+}
