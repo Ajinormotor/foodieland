@@ -59,7 +59,7 @@ padding-top: 10px;
 }
 
 
-@media only screen and (max-width:400px) {
+@media screen and (max-width:450px) {
 
     .footer{
         left: 0px;

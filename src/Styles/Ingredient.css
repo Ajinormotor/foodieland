@@ -218,7 +218,7 @@ text-align: left;
 
 
 
-@media only screen and (max-width:400px) {
+@media  screen and (max-width:450px) {
 
     .ingredients__wrapper, .ingredients__wrapper2{
         display: flex;

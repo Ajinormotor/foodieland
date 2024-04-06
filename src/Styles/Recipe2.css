@@ -142,7 +142,7 @@ text-align: left;
     }
 
 
-    @media  only screen  and (max-width:400px) {
+    @media  screen  and (max-width:450px) {
 .recipe2__heading{
     display: flex;
     flex-direction: column;

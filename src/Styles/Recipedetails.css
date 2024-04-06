@@ -184,7 +184,7 @@ text-align: right;
 }
 
 
-@media only screen  and (max-width:400px) {
+@media  screen  and (max-width:450px) {
 
     .recipesdetails__heading{
         display: flex;
