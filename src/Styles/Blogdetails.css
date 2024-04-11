@@ -1,3 +1,9 @@
+.blogdetails{
+    overflow: hidden;
+    width: 100%;
+}
+
+
 .blogdetails__heading{
     display: flex;
     flex-direction: column;
@@ -154,8 +160,10 @@ opacity: 0px;
 }
 
 .blogetails__socials__menu{
+    display: flex;
     padding: 15px;
     column-gap: 20px;
+    padding: 10px;
 }
 
 
@@ -211,6 +219,12 @@ padding: 0px;
 
 .blogdetails2__text p{
 width: 100%;
+}
+
+.blogdetails__socials{
+    display: flex;
+    width: 100%;
+    gap: 2rem;
 }
 
 

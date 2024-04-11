@@ -135,3 +135,15 @@ text-align: left;
         left: 130px;
         border-radius: 30px;  
     }
+
+    @media screen  and (max-width:700px){
+        .recipe__wrapper{
+            width: 100%;
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+        
+    }

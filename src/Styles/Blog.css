@@ -218,8 +218,8 @@ padding-top: 5%;
         width: 100%;
     }
 
-    .blogitem__pics{
-        width: 100%;
+    .blogitem__pics img{
+        width: 60%;
     }
 
     .blogitem__bottom__wrapper{

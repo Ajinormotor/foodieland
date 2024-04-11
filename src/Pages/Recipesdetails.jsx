@@ -42,24 +42,24 @@ if(!item){
 
     <div  className="recipesdetails__content">
     <img src={john} alt="" />
-    <p>John Smith   <span>15 M_arch 2022</span> </p> 
+    <p>John Smith   <span>15 March 2022</span> </p> 
  
 </div>
 
 <div  className="recipesdetails__content">
-    <img src={clock} alt="" />
-    <p>PREP TIME <span>15 15 Minutes</span> </p> 
+    <img src={clock} alt="" className="recipesdetails__content__selfie"/>
+    <p>PREP TIME <span>15  Minutes</span> </p> 
  
 </div>
 
 <div  className="recipesdetails__content">
-    <img src={clock} alt="" />
-    <p>COOK TIME<span>15 15 Mintues</span> </p> 
+    <img src={clock} alt=""  className="recipesdetails__content__selfie" />
+    <p>COOK TIME<span> 15 Mintues</span> </p> 
  
 </div>
 
 <div  className="recipesdetails__content">
-    <img src={spoon} alt="" />
+    <img src={spoon} alt="" className="recipesdetails__content__selfie" />
     <p>CHICKEN</p> 
  
 </div>

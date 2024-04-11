@@ -89,7 +89,15 @@ padding-bottom: 3%;
 
 /*-------RECIPE WRAPPER BEGINS HERE-------*/
 
+.recipesdetails__content__selfie{
+    width: 24px;
+height: 24px;
+top: 328px;
+left: 510px;
+gap: 0px;
+opacity: 0px;
 
+}
    
 
 .recipesdetails__content{
