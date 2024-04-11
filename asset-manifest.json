@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/foodieland/static/css/main.e9583652.css",
-    "main.js": "/foodieland/static/js/main.bdb9dfc3.js",
+    "main.css": "/foodieland/static/css/main.14df0f27.css",
+    "main.js": "/foodieland/static/js/main.a6a6a5b3.js",
     "static/media/remixicon.svg?t=1708865856766": "/foodieland/static/media/remixicon.7735fab8dbf8ff78afe9.svg",
     "static/media/Mask Group.png": "/foodieland/static/media/Mask Group.7176916f98f32208e8f0.png",
     "static/media/remixicon.eot?t=1708865856766": "/foodieland/static/media/remixicon.8542c1bb279bcd77063a.eot",
@@ -33,11 +33,11 @@
     "static/media/image 22.png": "/foodieland/static/media/image 22.f2a7af6bd21800dffd83.png",
     "static/media/image 24.png": "/foodieland/static/media/image 24.b5ae1041aef7f6021875.png",
     "index.html": "/foodieland/index.html",
-    "main.e9583652.css.map": "/foodieland/static/css/main.e9583652.css.map",
-    "main.bdb9dfc3.js.map": "/foodieland/static/js/main.bdb9dfc3.js.map"
+    "main.14df0f27.css.map": "/foodieland/static/css/main.14df0f27.css.map",
+    "main.a6a6a5b3.js.map": "/foodieland/static/js/main.a6a6a5b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9583652.css",
-    "static/js/main.bdb9dfc3.js"
+    "static/css/main.14df0f27.css",
+    "static/js/main.a6a6a5b3.js"
   ]
 }
